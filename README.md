@@ -18,7 +18,7 @@ If you have any questions about this you can contact thao.sahee@uwlax.edu.
 ## Extra Projects
 
 ## Extra Java Resources
-Codecademy
+Codecademy\n
 https://www.codecademy.com/learn/learn-java
 Codecademy is a great interactive way to learn Java! Signing up is free, and the website offers more learning opportunities than just Java!
 

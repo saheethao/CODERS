@@ -37,3 +37,18 @@ This book walks through the basics of Java.<br/>
 Another Java Basics Website<br/>
 http://www.wideskills.com/java-tutorial<br/>
 This is just another one if you are still looking.<br/>
+
+## Software Resources
+Eclipse (we use these in the sessions)<br/>
+https://www.eclipse.org/<br/>
+<br/>
+Notepad++<br/>
+https://notepad-plus-plus.org/<br/>
+<br/>
+Netbeans<br/>
+https://netbeans.org/<br/>
+<br/>
+Intellij<br/>
+https://www.jetbrains.com/idea/<br/>
+
+

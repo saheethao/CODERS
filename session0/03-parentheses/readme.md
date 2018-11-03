@@ -7,7 +7,6 @@ This is the order of operations for mathematics.<br/>
 
 This goes for your program too when you use arithmetic operators!
 <br/>
-<br/>
 Output
 
 ```

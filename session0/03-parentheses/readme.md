@@ -5,7 +5,7 @@ This is the order of operations for mathematics.<br/>
 3. Multiplication and Division (left-to-right)<br/>
 4. Addition and Subtraction (left-to-right)<br/>
 This goes for your program too when you use arithmetic operators!
-<br/><br/>
+<br/>
 Output
 ```
 48

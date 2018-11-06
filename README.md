@@ -8,7 +8,7 @@ If you have any questions about this you can contact thao.sahee@uwlax.edu.
 ## Slides
 
 ### Session 0
-
+https://docs.google.com/presentation/d/1p0GbL1fj8ul7uQWigeUDJqaHNZaXO5Kojd8XNlQp9gY/edit?usp=sharing
 
 ### Session 1
 

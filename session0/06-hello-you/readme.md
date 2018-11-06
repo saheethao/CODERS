@@ -1,10 +1,10 @@
 ## Hello You
 This class is an introduction to scanners.<br />
-If you want to get input you first create a scanner by the following code:
+If you want to get input you first create a scanner by the following code.
 ```
 Scanner <variable-name> = new Scanner(System.in);
 ```
-You can get certain values like so
+You can get certain values like so.
 ```java
 Scanner myScanner = new Scanner(System.in);
 System.out.println("String please:");

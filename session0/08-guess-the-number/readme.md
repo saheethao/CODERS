@@ -1,6 +1,7 @@
 ## Guess the Number
 In this program you make a game where you guess a number! The number is randomly generated and stored in the "number" variable.<br/><br/>
-Write your code in the method called loop() instead of main(). The code you write will go into a loop until this condition is satisfied: ```
+Write your code in the method called loop() instead of main(). The code you write will go into a loop until this condition is satisfied:
+```
 For refrence:
 int guess;
 int number:
@@ -8,6 +9,7 @@ int number:
 Condition:
 (guess == number)
 ```
+
 Use a scanner to ask what number the player wants to guess.
 This should be stored in the "guess" variable.<br/><br/>
 Your program should tell the player to guess higher or lower depending on their guess and the number. The program should also give a
@@ -17,6 +19,7 @@ You can copy and paste in the completed code to see how the program runs.<br/><b
 The "(input)" means that line is user input.
 <br/>
 Example output:
+
 ```
 Guess the number!
 40 (input)

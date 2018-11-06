@@ -16,12 +16,13 @@ public class Calculator {
 		operator = scan.next();
 		System.out.print("Enter an integer: ");
 		secondInt = scan.nextInt();
-		
+		/* Add you code below */
 		if (operator.equals("+")) {
 			System.out.println(firstInt + secondInt);
 		} else {
 			System.out.println("Invalid operator!");
 		}
+		/* Your code stops here */
 	}
 
 }

@@ -3,8 +3,8 @@ In this program you make a game where you guess a number! The number is randomly
 Write your code in the method called loop() instead of main(). The code you write will go into a loop until this condition is satisfied:
 ```
 For refrence:
-int guess;
-int number:
+int guess; //This is from the user input
+int number; //This is randomly generated
 
 Condition:
 (guess == number)

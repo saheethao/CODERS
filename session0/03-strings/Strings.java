@@ -9,7 +9,7 @@ public class Strings {
 
 
 		String adjective1 = "crispy";
-		String adjective2 = "tastey";
+		String adjective2 = "tasty";
 
 		String verb = "jump";
 

@@ -1,11 +1,11 @@
 ## Hello You
 This class is an introduction to scanners.<br />
 If you want to get input you first create a scanner by the following code:
-```Java
+```
 Scanner <variable-name> = new Scanner(System.in);
 ```
 You can get certain values like so
-```Java
+```
 System.out.println("String please:");
 String str;
 str = <variable-name>.next();
@@ -21,15 +21,15 @@ double val;
 val = <variable-name>.nextDouble();
 System.out.println(val  + "!");
 ```
-The console will look like this
+The console will look like this. Ignore the (input). It is there to remind you of the input the user puts in.
 ```
 String please:
-hi
+hi (input)
 hi!
 int please:
-4
+4 (input)
 4!
 double please:
-5.505
+5.505 (input)
 5.505!
 ```

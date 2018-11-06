@@ -6,29 +6,29 @@ Your program should tell the player to guess higher or lower depending on their 
 hit to the player when they are 5 numbers away. It should say something along the lines of "You are really close!"
 <br/><br/>
 You can copy and paste in the completed code to see how the program runs.<br/><br/>
-
-
+The "(input)" means that line is user input.
+<br/>
 Example output:
 ```
 Guess the number!
-40
+40 (input)
 Guess higher!
 Guess the number!
-80
+80 (input)
 You are really close!
 Guess lower!
 Guess the number!
-83
+83 (input)
 Guess lower!
 Guess the number!
-77
+77 (input)
 You are really close!
 Guess higher!
 Guess the number!
-79
+79 (input)
 You are really close!
 Guess lower!
 Guess the number!
-78
+78 (input)
 You got it! It took you 6 guesses!
 ```

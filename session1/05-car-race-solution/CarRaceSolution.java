@@ -5,9 +5,9 @@ public class CarRace {
 		new CarRace();
 	}
 	
-	Car carOne;
-	Car carTwo;
-	Car carThree;
+	CarSolution carOne;
+	CarSolution carTwo;
+	CarSolution carThree;
 	
 	public CarRace() {
 		carOne = new Car("Hot Rod", 30, 2);
@@ -49,7 +49,7 @@ public class CarRace {
 	 * This method prints out who is winning.
 	 */
 	private void whoIsWinning() {
-		Car winner = carOne;
+		CarSolution winner = carOne;
 		if (carTwo.getPosition() > winner.getPosition()) {
 			winner = carTwo;
 		}

@@ -11,7 +11,8 @@ If you have any questions about this you can contact thao.sahee@uwlax.edu.
 https://docs.google.com/presentation/d/1p0GbL1fj8ul7uQWigeUDJqaHNZaXO5Kojd8XNlQp9gY/edit?usp=sharing
 
 ### Session 1
-
+#### Session 1 - Training Day
+https://docs.google.com/presentation/d/1un9eA6P72N41897NxP-lZwQf50OlLe5U7YPHd806UHk/edit?usp=sharing
 
 ### Session 2
 

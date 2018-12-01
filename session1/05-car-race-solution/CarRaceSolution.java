@@ -1,8 +1,8 @@
 
-public class CarRace {
+public class CarRaceSolution {
 
 	public static void main(String[] args) {	
-		new CarRace();
+		new CarRaceSolution();
 	}
 	
 	CarSolution carOne;

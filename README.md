@@ -21,12 +21,14 @@ https://docs.google.com/presentation/d/1un9eA6P72N41897NxP-lZwQf50OlLe5U7YPHd806
 
 ## Extra Projects
 Daily Programmer <br/>
-https://www.reddit.com/r/dailyprogrammer/
+https://www.reddit.com/r/dailyprogrammer/<br/>
 This provides fun challenges at all levels. In each thread you are given a prompt. Each thread also has solutions that others have given (it may be in different langauges!).<br/>
 <br/>
+Codewars<br/>
 https://www.codewars.com/<br/>
 Practice coding in an interactive enviroment where you earn points.<br/>
 <br/>
+Project Euler<br/>
 https://projecteuler.net/<br/>
 If you like math check this out! Solve interesting and challenging mathematical and programming problems.<br/>
 <br/>

@@ -8,15 +8,17 @@ If you have any questions about this you can contact thao.sahee@uwlax.edu.
 ## Slides
 
 ### Session 0
-#### Session 0 - Non-training Day
 https://docs.google.com/presentation/d/1p0GbL1fj8ul7uQWigeUDJqaHNZaXO5Kojd8XNlQp9gY/edit?usp=sharing
+<!---
 #### Session 0 - Training Day
 https://docs.google.com/presentation/d/1hVAjlJFqZYxc9KnU1FakFXV8u4mjaZcwzOIGW187sEk/edit?usp=sharing
-
+-->
 ### Session 1
+https://docs.google.com/presentation/d/1fvYN1pSF0nSJp-hvEFfobaDxiT1ExppATQgmQZgfRW4/edit?usp=sharing
+<!---
 #### Session 1 - Training Day
 https://docs.google.com/presentation/d/1un9eA6P72N41897NxP-lZwQf50OlLe5U7YPHd806UHk/edit?usp=sharing
-
+-->
 ### Session 2
 
 ## Extra Projects
@@ -66,5 +68,3 @@ https://netbeans.org/<br/>
 <br/>
 Intellij<br/>
 https://www.jetbrains.com/idea/<br/>
-
-

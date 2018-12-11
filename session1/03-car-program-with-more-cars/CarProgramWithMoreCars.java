@@ -29,7 +29,7 @@ public class CarProgramWithMoreCars {
 		//System.out.println(x); //This does not work as x would be not in scope.
 		carVelocityA = carVelocityA + carAccelerationA;
 		carPositionA = carPositionA + carVelocityA;
-		System.out.println("Vroom! Car A is at position " + carPositionA + " and travelling at " + carVelocityA + " m/s!");
+		System.out.println("Vroom! Car A is at position " + carPositionA + " and traveling at " + carVelocityA + " m/s!");
 	}
 	
 	private void moveB() {
@@ -37,6 +37,6 @@ public class CarProgramWithMoreCars {
 		//System.out.println(x); //This does not work as x would be not in scope.
 		carVelocityB = carVelocityB + carAccelerationB;
 		carPositionB = carPositionB + carVelocityB;
-		System.out.println("Vroom! Car B is at position " + carPositionB + " and travelling at " + carVelocityB + " m/s!");
+		System.out.println("Vroom! Car B is at position " + carPositionB + " and traveling at " + carVelocityB + " m/s!");
 	}
 }

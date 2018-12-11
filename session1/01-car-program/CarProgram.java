@@ -25,14 +25,14 @@ public class CarProgram {
 		/* Running Pattern */
 		carVelocity = carVelocity + carAcceleration;
 		carPosition = carPosition + carVelocity;
-		System.out.println("Vroom! Car is at position " + carPosition + " and travelling at " + carVelocity + " m/s!");
+		System.out.println("Vroom! Car is at position " + carPosition + " and traveling at " + carVelocity + " m/s!");
 		
 		carVelocity = carVelocity + carAcceleration;
 		carPosition = carPosition + carVelocity;
-		System.out.println("Vroom! Car is at position " + carPosition + " and travelling at " + carVelocity + " m/s!");
+		System.out.println("Vroom! Car is at position " + carPosition + " and traveling at " + carVelocity + " m/s!");
 		
 		carVelocity = carVelocity + carAcceleration;
 		carPosition = carPosition + carVelocity;
-		System.out.println("Vroom! Car is at position " + carPosition + " and travelling at " + carVelocity + " m/s!");
+		System.out.println("Vroom! Car is at position " + carPosition + " and traveling at " + carVelocity + " m/s!");
 	}
 }

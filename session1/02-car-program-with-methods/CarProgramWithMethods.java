@@ -36,14 +36,14 @@ public class CarProgramWithMethods {
 		//System.out.println(x); //This does not work as x would be not in scope.
 		carVelocity = carVelocity + carAcceleration;
 		carPosition = carPosition + carVelocity;
-		System.out.println("Vroom! Car is at position " + carPosition + " and travelling at " + carVelocity + " m/s!");
+		System.out.println("Vroom! Car is at position " + carPosition + " and traveling at " + carVelocity + " m/s!");
 	}
 	/**
 	 * The car should reduce in acceleration. The speed should go to zero but not below zero.
 	 */
 	private void applyBreaks() {
 		/* Insert your code here! */
-		System.out.println("Breaking!! Car is at position " + carPosition + " and travelling at " + carVelocity + " m/s!");
+		System.out.println("Breaking!! Car is at position " + carPosition + " and traveling at " + carVelocity + " m/s!");
 	}
 	
 	/**
@@ -51,6 +51,6 @@ public class CarProgramWithMethods {
 	 */
 	private void reverse(int pressure) {
 		/* Insert your code here! */
-		System.out.println("Reversing! Car is at position " + carPosition + " and travelling at " + carVelocity + " m/s!");
+		System.out.println("Reversing! Car is at position " + carPosition + " and traveling at " + carVelocity + " m/s!");
 	}
 }

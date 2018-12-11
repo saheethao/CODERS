@@ -31,7 +31,7 @@ public class Car {
 		
 		velocity = velocity + acceleration;
 		position = position + velocity;
-		System.out.println("Vroom! " + name + " is at position " + position + " and travelling at " + velocity + " m/s!");
+		System.out.println("Vroom! " + name + " is at position " + position + " and traveling at " + velocity + " m/s!");
 	}
 	
 	/**
